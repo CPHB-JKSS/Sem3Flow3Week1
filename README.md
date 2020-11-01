@@ -4,12 +4,11 @@ Author: &nbsp;&nbsp;Joakim Skaarup Stensnæs\
 CPH Id: &nbsp;&nbsp;JS437\
 Email: &nbsp;&nbsp;&nbsp;&nbsp;cph-js437@cphbusiness.dk
 
-## 01_Monday
-
 ## 02_Tuesday
+* day1_ex
 
 ## 03_Wednesday
+* day2_ex
 
 ## 04_Thursday
-
-## 05_Friday
+* day3_ex
